@@ -55,5 +55,5 @@ tmp*
 !tmp*py
 buildout.in
 
-src/pretty-httpbin/__version__.py
+src/pretty_httpbin/__version__.py
 bootstrap.py
